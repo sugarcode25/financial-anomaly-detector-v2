@@ -77,7 +77,7 @@ El protocolo se fijó **antes** de mirar los datos de prueba; sus dos enmiendas 
 
 ### 1. La fuga de información y su corrección
 
-![Figura 1](figuras/fig1_prueba_truncacion.png)
+![Figura 1](fig1_prueba_truncacion.png)
 
 Se corre el modelo dos veces con **los mismos precios**: una vez completos y otra recortados al 31-dic-2023. Un modelo sin fuga debe calificar igual los días de 2020 a junio de 2023 en las dos corridas, porque esos días no dependen de lo que pasó después.
 
@@ -96,7 +96,7 @@ Estos números motivaron la prueba final; no la reemplazan.
 
 ### 3. Prueba final (10 activos, 9-abr a 16-nov-2026)
 
-![Figura 2](figuras/fig2_prueba_final.png)
+![Figura 2](fig2_prueba_final.png)
 
 | Prueba | Señales | Coef. | IC 95% | p | p ajustado (BH) | Conclusión |
 |---|---:|---:|---|---:|---:|---|
@@ -116,7 +116,7 @@ Estos números motivaron la prueba final; no la reemplazan.
 
 ### 4. Qué ve el SOM (descriptivo)
 
-![Figura 3](figuras/fig3_diagnostico_grupos.png)
+![Figura 3](fig3_diagnostico_grupos.png)
 
 En la prueba final, los días que marcó **solo el SOM** tuvieron un movimiento fuerte (volatilidad del día 73.9 contra 32.6 del resto) dentro de un mes normal (42.8 contra 42.2). Después, la volatilidad fue la de un día cualquiera (5 días: 41.3 contra 42.2). En desarrollo, en cambio, esos sacudones sí precedían más volatilidad: **ese patrón no se repitió fuera de muestra.**
 
@@ -124,7 +124,7 @@ La regla simple marca crisis ya en curso (volatilidad del último mes: 77.9), y 
 
 *Advertencia:* esta tabla mezcla activos de volatilidad muy distinta y no tiene efecto fijo; la inferencia es la de la Figura 2.
 
-![Figura 4](figuras/fig4_spy_senales.png)
+![Figura 4](fig4_spy_senales.png)
 
 A simple vista, las señales parecen concentrarse cerca de los mínimos (marzo de 2020, 2022, abril de 2025). Esa impresión fue el origen de la hipótesis C, y la prueba muestra por qué no basta: los mínimos son también los días más volátiles, y a igual volatilidad la señal no agrega información.
 
