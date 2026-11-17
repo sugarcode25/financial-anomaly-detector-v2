@@ -1,0 +1,70 @@
+Copyright (c) 2026 Juan Carlos Salas (GitHub: sugarcode25). Todos los derechos reservados.
+All rights reserved.
+
+==============================================================================
+ESPAÑOL
+==============================================================================
+
+1. CONTENIDO DE ESTE REPOSITORIO (README, figuras, tablas y documentación)
+
+Se publica bajo la licencia Creative Commons Atribución-NoComercial-
+SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0):
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+
+Se permite compartirlo citando al autor, sin fines comerciales y sin
+modificarlo.
+
+2. CÓDIGO FUENTE, PARÁMETROS Y MODELO
+
+El código fuente, los parámetros y la implementación del modelo NO forman parte
+de este repositorio y no se licencian. Todos los derechos reservados. Queda
+prohibida su reproducción, distribución, ingeniería inversa o uso con fines
+comerciales, de inversión o de asesoría a terceros sin autorización previa y
+por escrito del autor.
+
+3. DATOS
+
+Los precios de mercado provienen de terceros (Yahoo Finance) y no se incluyen
+en este repositorio. Su uso se rige por los términos de su proveedor.
+
+4. SIN GARANTÍA
+
+Este proyecto es académico y de investigación. No constituye asesoría
+financiera ni recomendación de inversión. Se entrega "tal cual", sin garantía
+de ningún tipo; el autor no responde por el uso que se haga de él.
+
+Para solicitar permisos: abrir un issue en este repositorio.
+
+==============================================================================
+ENGLISH
+==============================================================================
+
+1. CONTENTS OF THIS REPOSITORY (README, figures, tables and documentation)
+
+Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+International (CC BY-NC-ND 4.0):
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+You may share it with attribution, for non-commercial purposes and without
+modification.
+
+2. SOURCE CODE, PARAMETERS AND MODEL
+
+The source code, parameters and model implementation are NOT part of this
+repository and are not licensed. All rights reserved. Reproduction,
+distribution, reverse engineering or use for commercial, investment or
+third-party advisory purposes is prohibited without the author's prior written
+permission.
+
+3. DATA
+
+Market prices come from third parties (Yahoo Finance) and are not included in
+this repository. Their use is governed by the provider's terms.
+
+4. NO WARRANTY
+
+This is an academic research project. It is not financial advice or an
+investment recommendation. It is provided "as is", without warranty of any
+kind; the author is not liable for any use made of it.
+
+To request permissions: open an issue in this repository.
